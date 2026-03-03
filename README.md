@@ -4,9 +4,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: **Smart City data structures project (C++)**  
+- 🔭 Currently working on: **Fullstack information retrieval project (Website with search engine)**  
 - 🌱 Learning: **React · Node.js · Express.js · MongoDB**  
-- 👯 Open to collaborate on: **React frontend projects**  
+- 👯 Open to collaborate on: **React frontend/DSAI projects**  
 - 💬 Ask me about: **React, Python, C++**  
 - 📫 Reach me: **marawananbu100@gmail.com**  
 - 👨‍💻 My projects:  
