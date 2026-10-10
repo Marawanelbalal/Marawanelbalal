@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Marawan</h1>
-<h3 align="center">React Frontend Developer & Data Analyst from Egypt</h3>
+<h3 align="center">Fullstack Web Developer & Data Analyst from Egypt</h3>
 
 ---
 
 ### 🚀 About Me
 - 🔭 Currently working on: **Fullstack information retrieval project (Website with search engine)**  
-- 🌱 Learning: **React · Node.js · Express.js · MongoDB**  
-- 👯 Open to collaborate on: **React frontend/DSAI projects**  
-- 💬 Ask me about: **React, Python, C++**  
-- 📫 Reach me: **marawananbu100@gmail.com**  
-- 👨‍💻 My projects:  
-  **https://www.behance.net/marawanelbalal**
+- 🌱 Learning: **React · Node.js · Next.js · NestJS ·**  
+- 👯 Open to collaborate on: **Fullstack web/DSAI projects**  
+- 💬 Ask me about: **Web Development, Typescript, Python, C++**  
+- 📫 Reach me: **marawanelbalal@gmail.com**  
 
 ---
 
