@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marawan</h1>
-<h3 align="center">Fullstack Web Developer & Data Analyst from Egypt</h3>
+<h3 align="center">AI Engineer & Fullstack Web Developer from Egypt</h3>
 
 ---
 
